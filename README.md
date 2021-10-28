@@ -6,3 +6,8 @@ Algo que não fizemos na nossa última análise (Exemplo 1) foi avaliar/comparar
 •	Gênero: como a performance do modelo difere entre homens e mulheres?
 
 Neste exemplo, faremos exatamente isto.
+
+
+<p align="center">
+<img alt="pattern demo" src="https://cdn.pixabay.com/photo/2016/08/20/09/55/magnifying-glass-1607208_960_720.jpg">
+</p>
