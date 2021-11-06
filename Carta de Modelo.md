@@ -27,7 +27,8 @@ Métricas
 2.	O modelo possui uma boa precisão ao classificar pessoas que possuem renda anual > $50,000 USD (70%). Contudo, a maior parte das classificações erradas feitas por este modelo são Falsos Negativos (indivíduos com renda anual > $50,000 USD, que são classificados como possuindo renda anual < $50,000 USD. 
 3.	Aviso: a performance do modelo varia consideravelmente entre subgrupos de atributos sensíveis (e.g., gênero, raça, estado civil). 
 4.	Dados de treinamento e testagem foram adquiridos diretamente do conjunto de dados fornecidos pela UCI Machine Learning Repository (i.e., Adult Census Income Data Set);
-5.	5.	Amostras com valores ausentes (i.e., “”?” ou “NaN”) foram excluídas do conjunto de dados.
+5.	Este conjunto de dados foi escolhido por sua disponibilidade pública;
+6.	5.	Amostras com valores ausentes (i.e., “”?” ou “NaN”) foram excluídas do conjunto de dados.
 
 Considerações Éticas
 
